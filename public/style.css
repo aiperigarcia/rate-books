@@ -1,0 +1,22 @@
+body {
+  padding-top: 80px;
+  word-wrap: break-word;
+  background-color: #F4BDCA;
+  background-size: cover;
+}
+
+img {
+  height: 300px;
+}
+
+.jumbotron {
+  background-image: url('img/books.jpeg');
+}
+
+.jumbotron h1 {
+  margin-bottom: 8%;
+  font-family: serif;
+  font-weight: bold;
+  margin-top: 0;
+  color: seashell;
+}
