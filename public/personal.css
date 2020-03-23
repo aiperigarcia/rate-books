@@ -1,0 +1,65 @@
+body {
+  background-image: url('img/wall.png');
+  background-size: cover;
+}
+
+.well {
+  min-height: 20px;
+  padding: 19px;
+  background-color: aliceblue;
+  border-radius: 4px;
+}
+
+.page-header {
+  border-bottom: 0;
+}
+
+h1 {
+  font-size: 45px;
+  margin-bottom: 30px;
+  color: mediumpurple;
+  font-family: initial
+}
+
+p {
+  color: cornflowerblue;
+  font-size: 16px
+}
+
+.col-sm-6 {
+  padding: 19px;
+  background-color: #EAD6CA;
+  border-radius: 4px;
+  text-align: center;
+  margin-left: 30%;
+  height: auto;
+  margin-top: 6%;
+}
+
+li {
+  list-style: none;
+  color: cornflowerblue;
+  font-size: 18px;
+  font-family: Georgia
+}
+
+h2 {
+  font-size: 32px;
+  font-family: serif;
+  color: darkslateblue;
+  margin: 18px 0 20px 0;
+}
+
+input {
+  border-style: outset;
+  border-color: purple;
+  font-size: 15px;
+  border-radius: 5%;
+  text-align: center;
+}
+
+button, .btn-sm {
+  background-color: thistle;
+  font-size: 16px;
+  border-radius: 10%;
+}
