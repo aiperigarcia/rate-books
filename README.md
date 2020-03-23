@@ -2,10 +2,11 @@
 
 ## Goal:
 
-Full-stack web application that enables to rate books and delete them.
+Full-stack web application that enables to rate books. Users can add their favorite books and have separate list of them.
 
 ![Books](public/img/read.png)
-![Books](public/img/readme.png)
+![Books](public/img/readOne.png)
+![Books](public/img/readTwo.png)
 
 ## How It's Made:
 
